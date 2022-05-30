@@ -3,8 +3,12 @@
 
 Projeto para treinar as habilidades em CSS e HTML, proposto durante o programa GoDev da Imã Learning Place.
 
-Ferramentas utilizadas:
+# Ferramentas utilizadas:
+
 Ícones: https://fontawesome.com/
+
 Fonte: https://fonts.google.com/
+
 Gradiente: https://cssgradient.io/
+
 Foto: https://www.pexels.com/pt-br/
